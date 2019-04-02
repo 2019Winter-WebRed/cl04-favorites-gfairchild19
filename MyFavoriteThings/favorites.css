@@ -1,0 +1,14 @@
+/*
+* Grace Fairchild
+* 3/28/2019
+* Favorites Project
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+img { width: 300px; height: 250px; float: left}
+#next_para {clear: left;}
